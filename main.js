@@ -23,3 +23,7 @@ randomButton.addEventListener('click', () => {
     }
     randomResult.innerHTML = result;
 });
+
+
+// Đang ở nhánh release, có thể fix lỗi ở nhánh này
+console.log('release branch');
